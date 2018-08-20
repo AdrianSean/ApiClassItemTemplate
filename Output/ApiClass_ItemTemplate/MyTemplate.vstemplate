@@ -1,6 +1,6 @@
 <VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Item">
   <TemplateData>
-    <DefaultName>OpenBank Class.cs</DefaultName>
+    <DefaultName>OpenBankClass.cs</DefaultName>
     <Name>OpenBank Class</Name>
     <Description>Contains boiler plate code</Description>
     <ProjectType>CSharp</ProjectType>
